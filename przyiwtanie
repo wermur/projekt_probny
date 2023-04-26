@@ -3,3 +3,4 @@ przywitania=["hej","siema", "elo"]
 wylosowana=random.choice(przywitania)
 print(wylosowana)
 print("Miło Cię widzieć!")
+print("stara jestes mistrzem programowania")
