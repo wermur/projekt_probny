@@ -2,3 +2,4 @@ import random
 przywitania=["hej","siema", "elo"]
 wylosowana=random.choice(przywitania)
 print(wylosowana)
+print("Miło Cię widzieć!")
